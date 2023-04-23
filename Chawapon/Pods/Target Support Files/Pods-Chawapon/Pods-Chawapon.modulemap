@@ -1,0 +1,6 @@
+framework module Pods_Chawapon {
+  umbrella header "Pods-Chawapon-umbrella.h"
+
+  export *
+  module * { export * }
+}
